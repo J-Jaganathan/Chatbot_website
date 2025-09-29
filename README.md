@@ -165,7 +165,7 @@ export async function POST(req) {
 
 **Example Queries:**
 
-* `"Cannot read property 'x' of undefined"`
+* `"Cannot read property of undefined"`
 * `"CORS error in my API"`
 * `"React state not updating"`
 
