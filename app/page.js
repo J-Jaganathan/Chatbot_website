@@ -185,7 +185,7 @@ export default function ChatbotUI() {
           </div>
           
           <p className="text-purple-400 text-xs mt-3 text-center">
-            Press Enter to send • Shift+Enter for new line • First request may take 60-90 seconds (cold start)
+            Tip: Paste the exact error message only (no code needed). The Prolog assistant is trained on common errors.
           </p>
         </div>
       </div>
