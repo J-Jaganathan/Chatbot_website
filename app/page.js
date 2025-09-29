@@ -105,9 +105,10 @@ export default function ChatbotUI() {
               <p className="text-lg">No messages yet. Ask about an error!</p>
               <div className="mt-8 space-y-2 text-sm">
                 <p className="font-semibold text-purple-200">Try asking:</p>
-                <p>"Cannot read property of undefined"</p>
-                <p>"CORS error in my API"</p>
-                <p>"React state not updating"</p>
+                <p>&quot;Cannot read property of undefined&quot;</p>
+                <p>&quot;CORS error in my API&quot;</p>
+                <p>&quot;React state not updating&quot;</p>
+
               </div>
             </div>
           )}
