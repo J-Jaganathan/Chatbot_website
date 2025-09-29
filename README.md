@@ -143,7 +143,7 @@ export async function POST(req) {
 3. Configure environment variable:
 
    ```
-   PROLOG_API_URL=https://prolog-chatbot-api.onrender.com/chat
+   PROLOG_API_URL=https://your url
    ```
 4. Deploy → Vercel automatically builds Next.js app
 
